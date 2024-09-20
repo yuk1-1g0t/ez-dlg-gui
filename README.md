@@ -1,1 +1,2 @@
-# ez-dlg-gui
+# ez-dlp-gui
+## GUIでyt-dlpを使用できます
